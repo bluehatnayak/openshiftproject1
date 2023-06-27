@@ -1,5 +1,5 @@
 <?php
 
-print "i m Tony\n";
+print "i m Tony here n there dont see just see me blind\n";
 
 ?>
